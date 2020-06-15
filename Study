@@ -1,3 +1,7 @@
 add == stage
 commit -m ""
 git push is simple
+
+log --oneline --graph  -n <number>
+
+status
