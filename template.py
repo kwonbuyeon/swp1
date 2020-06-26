@@ -11,4 +11,3 @@ html = b"""
     </body>
 </html>
 """
-
